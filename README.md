@@ -24,4 +24,9 @@ Es un projecto desarrollado en Javascript que permite al usuario calcular su pre
 + Calculo de porcentajes, tanto del total de gastos, como de cada uno de los items que los suman respecto a la suma total de ingresos
 
 ### Clonación
+---
 Puede clonar el proyecto usando el siguiente link: `https://github.com/CarrionB/CalcPresupuesto`
+
+### Autor
+---
++ [CarrionB](https://github.com/CarrionB)
