@@ -27,6 +27,6 @@ Es un projecto desarrollado en Javascript que permite al usuario calcular su pre
 ---
 Puede clonar el proyecto usando el siguiente link: `https://github.com/CarrionB/CalcPresupuesto`
 
-###Autores
+### Autor
 ---
 + [CarrionB](https://github.com/CarrionB)
